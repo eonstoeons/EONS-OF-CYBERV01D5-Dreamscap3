@@ -46,3 +46,8 @@ Simply teleport back to space and back to planet again to resolve issue.
 Modding, tinkering, and personal projects are all highly encouraged.
 MIT Open Source and Royalty-Free license included.
 
+Disclaimer: Eons2Eons, Claude, and Anthropic (No association with Eons2Eons, simply creative tool used) completely waive and claim no responsibility for how this game and the included apps are played or used, legally or otherwise. This also applies to any and all apps created by Eons2Eons and its associates. 
+This is a freely available and modifiable personal video game project designed by the creator to learn and explore the Python programming language and its utility and interaction with AI at the time of its production (2026). This was not created for-profit, and as a result makes no claims for or against anything in particular.
+Further information can be found in the included Open Source MIT License.
+Use responsibly and at one's own discretion. Thank you.
+

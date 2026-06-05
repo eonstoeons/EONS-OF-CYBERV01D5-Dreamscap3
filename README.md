@@ -52,3 +52,14 @@ This is a freely available and modifiable personal video game project designed b
 Further information can be found in the included Open Source MIT License.
 Use responsibly and at one's own discretion. Thank you.
 
+Authors
+
+    Original concept & code: eonstoeons
+    Co‑coded with Claude (Anthropic)
+
+GitHub: github.com/eonstoeons
+
+Other MIT repos and creators that made this possible. All credit goes where it is due:
+
+https://github.com/irmen/raycaster.git https://github.com/Magoninho/raycasting-python.git Piper TTS (github.com/rhasspy/piper) https://github.com/s-macke/VoxelSpace.git https://github.com/rhasspy/piper.git https://github.com/JayWalker512/ascii_raytracer.git https://github.com/LingDong-/asciimare.git https://github.com/Dozed12/df-style-worldgen.git
+

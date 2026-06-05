@@ -2,6 +2,10 @@
 A collaborative Python video game project - MIT Open Source
 
 You awaken in a cyber universe in a dream with no name and little explanation.
+
+A complete 2.5D-Raycasted Infinitely Procedural galaxy and comprehensive creative and utility suite.
+- All yours to discover and explore
+
 Uncover the secrets of the V01D through a comprehensive mini campaign and full suite of 17 included apps
 all within one file 
 ( EONS OF THE CYBERV01D5 - Campaign and App Suite_Alpha_1.0 [slow start].py )

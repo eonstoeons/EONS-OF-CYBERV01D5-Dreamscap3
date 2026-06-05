@@ -15,6 +15,7 @@ In addition, further explore this mysterious galaxy with the included expansion 
 also a full game and gfx engine condensed into a single Python file
 
 The expansion pack includes full space and planetary exploration with procedural generation.
+This applies to the graphics, music, and even sound effects.
 
 Explore the endless galaxy at hyperspeed in your starship.
 Cruise in abandoned land rovers. 

@@ -14,14 +14,15 @@ In addition, further explore this mysterious galaxy with the included expansion 
 ( EONS OF THE CYBERV01D5 - OMNIV01D Expansion Pack.py)
 also a full game and gfx engine condensed into a single Python file
 
-The expansion pack includes full space and planetary exploration with procedural generation
-Explore the endless galaxy at hyperspeed in your starship
+The expansion pack includes full space and planetary exploration with procedural generation.
+
+Explore the endless galaxy at hyperspeed in your starship.
 Cruise in abandoned land rovers. 
 Bring peace to the hostile aliens of the galaxy with the Peace Emitter lazer gun.
-Board enemy spaceships
+Board enemy spaceships.
 Recover lost relics and ancient artifacts, storing messages in your log book that leave hints to the mysterious plane you find yourself in.
 
-Free, Open Source, Powered exclusively by pure standard library Python, Tkinter GUI, and the powerful tools crafted from the Eons2Eons V01D Engine
+Free, Open Source, Powered exclusively by pure standard library Python, Tkinter GUI, and the powerful tools crafted from the Eons2Eons V01D Engine.
 
 Your journey awaits.
 
@@ -38,9 +39,10 @@ Built with care and for maximum enjoyment.
 
 
 Known bugs:
-X-axis directional controls swapped when exiting vehicle during planetary exploration
+X-axis directional controls swapped when exiting vehicle during planetary exploration.
 Peace Emitter Lazer Gun sfx sometimes also disappear after exiting vehicle.
 Simply teleport back to space and back to planet again to resolve issue.
 
-Modding, tinkering, and personal projects encouraged.
+Modding, tinkering, and personal projects are all highly encouraged.
+MIT Open Source and Royalty-Free license included.
 

@@ -1,65 +1,152 @@
-# EONS OF THE CYBERV01DS-Dreamscap3
-A collaborative Python creative video game project - MIT Open Source
+# EONS OF THE CYBERV01D5: DREAMSCAP3
 
-You awaken in a cyber universe in a dream with no name and little explanation.
+**A collaborative Python creative video game — MIT Open Source**
 
-A complete First-Person 2.5D ASCII-Raycasted Infinitely Procedural galaxy and comprehensive creative and utility suite.
-- All yours to discover and explore
+*The Dream Speaks of Time's Past.*
 
-Uncover the secrets of the V01D through a comprehensive mini campaign and full suite of 17 included apps
-all within one file 
-( EONS OF THE CYBERV01D5 - Campaign and App Suite_Alpha_1.0 [slow start].py )
+You awaken in a cyber universe with no memory and little explanation — drifting through the void in a ship that may or may not be yours. What follows is a 5-chapter narrative sequence woven through three fully realized graphics engines, all contained in a single Python file with zero external dependencies.
 
-In addition, further explore this mysterious galaxy with the included expansion pack: OMNIV01D
-( EONS OF THE CYBERV01D5 - OMNIV01D Expansion Pack.py)
-also a full game and gfx engine condensed into a single Python file
+---
 
-The expansion pack includes full space and planetary exploration with procedural generation.
-This applies to the graphics, music, and even sound effects.
+## What's Inside
 
-Explore the endless galaxy at hyperspeed in your starship.
-Cruise in abandoned land rovers. 
-Bring peace to the hostile aliens of the galaxy with the Peace Emitter lazer gun.
-Board enemy spaceships.
-Recover lost relics and ancient artifacts, storing messages in your log book that leave hints to the mysterious plane you find yourself in.
+**DREAMSCAP3** is a standalone single-file campaign launcher. Run it and you get three things from one file:
 
-Free, Open Source, Powered exclusively by pure standard library Python, Tkinter GUI, and the powerful tools crafted from the Eons2Eons V01D Engine.
+**Story Mode** — A 5-chapter narrative sequence with interstitial transmissions. Chapters auto-advance or wait for you depending on type. Progress is saved between sessions.
 
-Your journey awaits.
+**Pysplore v4.0** — Unlocked on campaign completion. A full DAW, games suite, and creative tool collection embedded as Chapter 3 of the campaign and accessible independently once earned.
 
-Tkinter install and computer required to play. Thonny or Pycharm IDE's or similar Python compiler recommended for play.
-Download or copy and paste to get started.
+**Free Roam — Omni V01D Engine** — The full open-world sandbox, always available. Three graphics engines that swap automatically based on your mode of travel.
 
-Share if you enjoy and thanks for playing.
+---
 
-Powered in collaboration with Claude AI as a project. 
-Designed to push and test the boundaries of 2026 technologies.
-Built with care and for maximum enjoyment.
+## The Campaign
 
--Eons2Eons
+Five chapters, five transmissions, one story.
 
+| # | Title | Engine |
+|---|-------|--------|
+| 1 | DRIFT | 6-DOF space flight — Void Engine Ultimate |
+| 2 | REMNANTS | Infinite ASCII night city drive — Phos City |
+| 3 | ARCHIVES | Pysplore v4.0 — DAW · games · tools |
+| 4 | INFINITE | Void Engine v2.1 — Confusion Protocol |
+| 5 | RELIC | Void Archive Final — 4-mode selector |
 
-Known bugs:
-X-axis directional controls swapped when exiting vehicle during planetary exploration.
-Peace Emitter Lazer Gun sfx sometimes also disappear after exiting vehicle.
-Simply teleport back to space and back to planet again to resolve issue.
+GFX chapters (1, 2, 4) auto-advance after 10 minutes. App chapters (3, 5) advance when you close the window. Transmissions advance on ENTER.
 
-Modding, tinkering, and personal projects are all highly encouraged.
-MIT Open Source and Royalty-Free license included.
+---
 
-Disclaimer: Eons2Eons, Claude, and Anthropic (No association with Eons2Eons, simply creative tool used) completely waive and claim no responsibility for how this game and the included apps are played or used, legally or otherwise. This also applies to any and all apps created by Eons2Eons and its associates. 
-This is a freely available and modifiable personal video game project designed by the creator to learn and explore the Python programming language and its utility and interaction with AI at the time of its production (2026). This was not created for-profit, and as a result makes no claims for or against anything in particular.
-Further information can be found in the included Open Source MIT License.
-Use responsibly and at one's own discretion. Thank you.
+## Free Roam — Omni V01D Engine
 
-Authors
+The sandbox mode runs a complete open-world game with three graphics engines that swap automatically:
 
-    Original concept & code: eonstoeons
-    Co‑coded with Claude (Anthropic)
+- **On foot / boarding** → CybervoidFusion DDA raycaster with true look left/right
+- **In vehicle** → Phos City Night Drive renderer with procedural windowed buildings
+- **In space** → Void Space Sim 6-DOF starfield cosmos
 
-GitHub: github.com/eonstoeons
+**What you can do:** explore 80 procedurally generated planets across four biomes (Phos City, Void Dungeon, Open Wilds, Moon Surface). Drive abandoned rovers. Launch to space. Board enemy ships. Bring peace to hostile entities with the Peace Emitter. Collect artifact log entries. Recover lost archive shards scattered across the world.
 
-Other MIT repos and creators that made this possible. All credit goes where it is due:
+**Two modes:** Peaceful or Combat. Save system with 4 manual slots, autosave, and passcode-based load. In-game stats tracking across session and all-time.
 
-https://github.com/irmen/raycaster.git https://github.com/Magoninho/raycasting-python.git Piper TTS (github.com/rhasspy/piper) https://github.com/s-macke/VoxelSpace.git https://github.com/rhasspy/piper.git https://github.com/JayWalker512/ascii_raytracer.git https://github.com/LingDong-/asciimare.git https://github.com/Dozed12/df-style-worldgen.git
+---
 
+## Controls
+
+**On foot / boarding**
+
+| Key | Action |
+|-----|--------|
+| WASD | Move / strafe |
+| Arrow LEFT/RIGHT | Turn |
+| Arrow UP/DOWN | Move forward/backward |
+| PgUp / PgDn | Look pitch up/down |
+| SHIFT | Sprint |
+| V | Jump |
+| SPACE / LMB | Fire Peace Emitter |
+| E | Interact — enter vehicle, terminal, ship |
+| F | Take off to space |
+| T | Teleport to spaceship |
+| L | Open/close artifact log |
+| M | Toggle music |
+| R | Toggle SFX |
+| ENTER | Pause menu |
+| ESC | Quit |
+
+**In vehicle**
+
+| Key | Action |
+|-----|--------|
+| W/S | Throttle / brake |
+| A/D | Steer |
+| Arrow LEFT/RIGHT | Camera look left/right |
+| SHIFT | Boost |
+| SPACE | Fire turret |
+| E | Exit vehicle |
+| F | Take off to space |
+
+**In space**
+
+| Key | Action |
+|-----|--------|
+| WASD | Pitch / yaw |
+| Q/E | Roll |
+| Arrow keys | Strafe |
+| SPACE | Toggle thrust |
+| B | Boost (hold) |
+| F | Land on nearby planet |
+| G | Board enemy ship |
+
+---
+
+## Known Issues
+
+- X-axis directional controls swap when exiting a vehicle during planetary exploration. Teleport back to space and return to the planet to resolve.
+- Peace Emitter laser SFX may disappear after exiting a vehicle. Same fix applies.
+
+---
+
+## Technical
+
+- Pure Python 3 + tkinter — stdlib only
+- Zero external dependencies
+- Fully offline — works forever without an internet connection
+- Single file: everything embedded, no assets to manage
+- Procedurally generated graphics, music, and sound effects — all synthesized at runtime from pure math
+- Save data stored at `~/.v01d_campaign.json` (campaign) and `~/.omni_void_engine.json` (free roam)
+
+**Requirements:** Python 3 with tkinter. Thonny or PyCharm recommended. Download or copy-paste the file to get started.
+
+---
+
+## Authors
+
+Original concept & code: **eonstoeons**
+Co-coded with **Claude (Anthropic)**
+
+GitHub: [github.com/eonstoeons](https://github.com/eonstoeons)
+
+---
+
+## Credits
+
+Other MIT repos and creators that made this possible:
+
+- [irmen/raycaster](https://github.com/irmen/raycaster)
+- [Magoninho/raycasting-python](https://github.com/Magoninho/raycasting-python)
+- [Piper TTS](https://github.com/rhasspy/piper)
+- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace)
+- [JayWalker512/ascii_raytracer](https://github.com/JayWalker512/ascii_raytracer)
+- [LingDong-/asciimare](https://github.com/LingDong-/asciimare)
+- [Dozed12/df-style-worldgen](https://github.com/Dozed12/df-style-worldgen)
+
+---
+
+## License
+
+MIT 2026 · eonstoeons
+
+Modding, tinkering, and personal projects are highly encouraged.
+
+Free, open source, royalty-free. Eons2Eons, Claude, and Anthropic waive all responsibility for use. This is a personal video game project built to explore Python and AI tooling in 2026. Not created for profit. Use responsibly and at your own discretion.
+
+*single-file · pure stdlib · zero deps · offline forever*

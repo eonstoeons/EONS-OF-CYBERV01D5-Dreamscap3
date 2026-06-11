@@ -59,7 +59,6 @@ The sandbox mode runs a complete open-world game with three graphics engines tha
 | WASD | Move / strafe |
 | Arrow LEFT/RIGHT | Turn |
 | Arrow UP/DOWN | Move forward/backward |
-| PgUp / PgDn | Look pitch up/down |
 | SHIFT | Sprint |
 | V | Jump |
 | SPACE / LMB | Fire Peace Emitter |

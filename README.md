@@ -6,6 +6,9 @@
 
 You awaken in a cyber universe with no memory and little explanation — drifting through the void in a ship that may or may not be yours. What follows is a 5-chapter narrative sequence woven through three fully realized graphics engines, all contained in a single Python file with zero external dependencies.
 
+Now on itch.io - Play in your browser!
+
+https://eons2eons.itch.io/eonsofthecybervoidsdreamscape
 ---
 
 ## What's Inside
